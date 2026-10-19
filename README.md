@@ -777,6 +777,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Tokolaku](https://tokolaku.id/developers) `https://api.tokolaku.id/mcp`
   [![Tokolaku MCP connector](https://glama.ai/mcp/connectors/id.tokolaku/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/id.tokolaku/mcp)
   🔐 - Send WhatsApp Business messages and manage inbox conversations, products, orders and webhooks for Indonesian SMBs.
+- [voicehook](https://voicehook.ai/?utm_source=awesome-remote-mcp&utm_campaign=d13-remote-list) `https://voicehook.ai/mcp`
+  [![voicehook MCP connector](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voicehook-ai/voicehook)
+  🔓 - Talk with your agents: a voice call in the browser that your agent can start or join.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
